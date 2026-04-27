@@ -9,6 +9,7 @@ Inside the Notebooks there is the documentation of the whole study explaining ev
 
 ## Repository Structure
 
+- `RESULTS.md` — Classification Report for each model for every run
 - `grad_cam_images/` — Grad-Cam comparison and Failure Analysis images of the models
 - `eda_images/` — Exploratory Data Analysis Graphs
 - `logs/`
