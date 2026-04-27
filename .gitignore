@@ -1,0 +1,28 @@
+# Dataset — too large for GitHub
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Logs
+logs/
+
+# Virtual environment
+.venv/
+
+models/
+*.h5
+*.keras
+
+
+models2/
+*.h5
+*.keras
+
+
+documentation_images2/
+
+
+documentation_images/
