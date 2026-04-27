@@ -9,15 +9,16 @@ Inside the Notebooks there is the documentation of the whole study explaining ev
 
 ## Repository Structure
 
-- `documentation/` — All evaluation plots referenced in the documentation
 - `grad_cam_images/` — Grad-Cam comparison and Failure Analysis images of the models
 - `eda_images/` — Exploratory Data Analysis Graphs
 - `logs/`
-- `Data_Loading.ipynb` — Loading of the Dataset
-- `Exploratory_Data_Analysis.ipynb` — Exploratory Data Analysis
-- `Modeling.ipynb` — Training,Evaluation and Test of the 3 models (Baseline, EfficientNet-B0 and DenseNet-121)
-- `Grad_Cam_Comparison.ipynb` — Gradcam Comparison and Failure Analysis of the 3 models
-- `Addressing_Class_Imbalance.ipynb` — Training,Evaluation and Test of the 3 models with class weighting and threshold optimization (Baseline, EfficientNet-B0 and DenseNet-121)
+- `notebooks/` — Jupyter notebooks for each stage of the study:
+    - `documentation/` — All evaluation plots referenced in the documentation
+    - `Data_Loading.ipynb` — Loading of the Dataset
+    - `Exploratory_Data_Analysis.ipynb` — Exploratory Data Analysis
+    - `Modeling.ipynb` — Training,Evaluation and Test of the 3 models (Baseline, EfficientNet-B0 and DenseNet-121)
+    - `Grad_Cam_Comparison.ipynb` — Gradcam Comparison and Failure Analysis of the 3 models
+    - `Addressing_Class_Imbalance.ipynb` — Training,Evaluation and Test of the 3 models with class weighting and threshold optimization (Baseline, EfficientNet-B0 and DenseNet-121)
 
 
 ---
