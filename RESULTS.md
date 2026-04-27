@@ -357,7 +357,7 @@ weighted avg       0.89      0.89      0.89       624
    macro avg       0.84      0.60      0.57       624
 weighted avg       0.80      0.70      0.63       624
 ```
-![Evaluation-Report](documentation_images2/evaluation_efficient_run1.png)
+![Evaluation-Report](documentation_images2/evaluation_efficientnet_run1.png)
 
 
 <summary>Run 2</summary>
@@ -372,7 +372,7 @@ weighted avg       0.80      0.70      0.63       624
    macro avg       0.89      0.82      0.84       624
 weighted avg       0.87      0.86      0.85       624
 ```
-![Evaluation-Report](documentation_images2/evaluation_efficient_run2.png)
+![Evaluation-Report](documentation_images2/evaluation_efficientnet_run2.png)
 
 
 <summary>Run 3</summary>
@@ -387,7 +387,7 @@ weighted avg       0.87      0.86      0.85       624
    macro avg       0.88      0.80      0.82       624
 weighted avg       0.86      0.84      0.84       624
 ```
-![Evaluation-Report](documentation_images2/evaluation_efficient_run3.png)
+![Evaluation-Report](documentation_images2/evaluation_efficientnet_run3.png)
 
 
 <summary>Run 4</summary>
@@ -402,7 +402,7 @@ weighted avg       0.86      0.84      0.84       624
    macro avg       0.85      0.72      0.73       624
 weighted avg       0.83      0.79      0.76       624
 ```
-![Evaluation-Report](documentation_images2/evaluation_efficient_run4.png)
+![Evaluation-Report](documentation_images2/evaluation_efficientnet_run4.png)
 
 
 <summary>Run 5</summary>
@@ -417,7 +417,7 @@ weighted avg       0.83      0.79      0.76       624
    macro avg       0.85      0.65      0.64       624
 weighted avg       0.81      0.74      0.69       624
 ```
-![Evaluation-Report](documentation_images2/evaluation_efficient_run5.png)
+![Evaluation-Report](documentation_images2/evaluation_efficientnet_run5.png)
 
 
 ---
