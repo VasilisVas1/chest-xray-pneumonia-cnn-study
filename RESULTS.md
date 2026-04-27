@@ -1,9 +1,9 @@
 # Pneumonia Classification — Model Evaluation Results
 
-Comparison of three models across **5 independent runs** under two training configurations:
+Results of three models across **5 independent runs** under two training configurations:
 
-- **Baseline**: No class weighting, default 0.5 threshold
-- **Tuned**: Class weighting enabled + 0.7 decision threshold
+- No class weighting, default 0.5 threshold
+- Class weighting enabled + 0.7 decision threshold
 
 Test set: 624 samples (234 Normal / 390 Pneumonia)
 
@@ -27,7 +27,6 @@ Test set: 624 samples (234 Normal / 390 Pneumonia)
 
 ### Baseline CNN
 
-<details>
 <summary>Run 1</summary>
 
 ```
@@ -41,7 +40,6 @@ Test set: 624 samples (234 Normal / 390 Pneumonia)
 weighted avg       0.81      0.76      0.73       624
 ```
 
-</details>
 
 <details>
 <summary>Run 2</summary>
