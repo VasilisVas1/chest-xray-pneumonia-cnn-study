@@ -1,4 +1,4 @@
-# Pneumonia Detection from Chest X-Rays: An Experimental Comparison of Deep Learning Architectures
+# Pneumonia Detection from Chest X-Rays: Comparison of Deep Learning Architectures
 
 This repository accompanies the study "Pneumonia Detection from Chest X-Rays: An Experimental Comparison of Deep Learning Architectures". It provides all code, notebooks, trained models, and documentation necessary to reproduce the experiments. 
 
