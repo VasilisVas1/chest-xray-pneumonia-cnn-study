@@ -1,4 +1,4 @@
-# Pneumonia Detection from Chest X-Rays: An Experimental Comparison of Deep Learning Architectures
+# Pneumonia Detection from Chest X-Rays: Comparison of Deep Learning Architectures
 
 This repository accompanies the study "Pneumonia Detection from Chest X-Rays: An Experimental Comparison of Deep Learning Architectures". It provides all code, notebooks, trained models, and documentation necessary to reproduce the experiments. 
 
@@ -12,9 +12,11 @@ Inside the Notebooks there is the documentation of the whole study explaining ev
 - `RESULTS.md` — Classification Report for each model for every run
 - `grad_cam_images/` — Grad-Cam comparison and Failure Analysis images of the models
 - `eda_images/` — Exploratory Data Analysis Graphs
+- `documentation_images/` — All evaluation plots of each model without class weighting and threshold optimization
+- `documentation_images2/` — All evaluation plots of each model with class weighting and threshold optimization
 - `logs/`
 - `notebooks/` — Jupyter notebooks for each stage of the study:
-    - `documentation/` — All evaluation plots referenced in the notebooks
+    - `documentation/` — All evaluation plots of the best runs of each model referenced in the notebooks
     - `Data_Loading.ipynb` — Loading of the Dataset
     - `Exploratory_Data_Analysis.ipynb` — Exploratory Data Analysis
     - `Modeling.ipynb` — Training,Evaluation and Test of the 3 models (Baseline, EfficientNet-B0 and DenseNet-121)

@@ -18,7 +18,6 @@ Results of three models across **5 independent runs** under two training configu
   - [Baseline CNN](#baseline-cnn-1)
   - [EfficientNet-B0](#efficientnet-b0-1)
   - [DenseNet-121](#densenet-121-1)
-- [Summary](#summary)
 
 ---
 
@@ -38,6 +37,8 @@ Results of three models across **5 independent runs** under two training configu
    macro avg       0.83      0.69      0.70       624
 weighted avg       0.81      0.76      0.73       624
 ```
+![Evaluation-Report](documentation_images/evaluation_run_1.png)
+
 
 
 <summary>Run 2</summary>
@@ -52,6 +53,7 @@ weighted avg       0.81      0.76      0.73       624
    macro avg       0.89      0.83      0.85       624
 weighted avg       0.88      0.87      0.86       624
 ```
+![Evaluation-Report](documentation_images/evaluation_run_2.png)
 
 
 <summary>Run 3</summary>
@@ -66,6 +68,8 @@ weighted avg       0.88      0.87      0.86       624
    macro avg       0.88      0.77      0.79       624
 weighted avg       0.86      0.83      0.81       624
 ```
+![Evaluation-Report](documentation_images/evaluation_run_3.png)
+
 
 
 <summary>Run 4</summary>
@@ -80,6 +84,7 @@ weighted avg       0.86      0.83      0.81       624
    macro avg       0.86      0.71      0.72       624
 weighted avg       0.83      0.78      0.76       624
 ```
+![Evaluation-Report](documentation_images/evaluation_run_4.png)
 
 
 <summary>Run 5</summary>
@@ -94,6 +99,7 @@ weighted avg       0.83      0.78      0.76       624
    macro avg       0.88      0.79      0.81       624
 weighted avg       0.86      0.84      0.83       624
 ```
+![Evaluation-Report](documentation_images/evaluation_run_5.png)
 
 
 ---
@@ -112,6 +118,7 @@ weighted avg       0.86      0.84      0.83       624
    macro avg       0.87      0.74      0.76       624
 weighted avg       0.84      0.80      0.79       624
 ```
+![Evaluation-Report](documentation_images/evaluation_efficientnet_run1.png)
 
 
 <summary>Run 2</summary>
@@ -126,6 +133,7 @@ weighted avg       0.84      0.80      0.79       624
    macro avg       0.85      0.69      0.69       624
 weighted avg       0.82      0.76      0.73       624
 ```
+![Evaluation-Report](documentation_images/evaluation_efficientnet_run2.png)
 
 
 <summary>Run 3</summary>
@@ -140,6 +148,7 @@ weighted avg       0.82      0.76      0.73       624
    macro avg       0.86      0.75      0.76       624
 weighted avg       0.84      0.81      0.79       624
 ```
+![Evaluation-Report](documentation_images/evaluation_efficientnet_run3.png)
 
 
 <summary>Run 4</summary>
@@ -154,6 +163,7 @@ weighted avg       0.84      0.81      0.79       624
    macro avg       0.85      0.66      0.65       624
 weighted avg       0.81      0.74      0.70       624
 ```
+![Evaluation-Report](documentation_images/evaluation_efficientnet_run4.png)
 
 
 <summary>Run 5</summary>
@@ -168,6 +178,7 @@ weighted avg       0.81      0.74      0.70       624
    macro avg       0.88      0.78      0.80       624
 weighted avg       0.86      0.83      0.82       624
 ```
+![Evaluation-Report](documentation_images/evaluation_efficientnet_run5.png)
 
 
 ---
@@ -186,6 +197,7 @@ weighted avg       0.86      0.83      0.82       624
    macro avg       0.91      0.86      0.88       624
 weighted avg       0.90      0.89      0.89       624
 ```
+![Evaluation-Report](documentation_images/evaluation_densenet_run1.png)
 
 
 <summary>Run 2</summary>
@@ -200,6 +212,7 @@ weighted avg       0.90      0.89      0.89       624
    macro avg       0.89      0.83      0.85       624
 weighted avg       0.88      0.87      0.86       624
 ```
+![Evaluation-Report](documentation_images/evaluation_densenet_run2.png)
 
 
 <summary>Run 3</summary>
@@ -214,6 +227,7 @@ weighted avg       0.88      0.87      0.86       624
    macro avg       0.91      0.87      0.88       624
 weighted avg       0.90      0.89      0.89       624
 ```
+![Evaluation-Report](documentation_images/evaluation_densenet_run3.png)
 
 
 <summary>Run 4</summary>
@@ -228,6 +242,7 @@ weighted avg       0.90      0.89      0.89       624
    macro avg       0.91      0.86      0.88       624
 weighted avg       0.90      0.89      0.89       624
 ```
+![Evaluation-Report](documentation_images/evaluation_densenet_run4.png)
 
 
 <summary>Run 5</summary>
@@ -242,6 +257,7 @@ weighted avg       0.90      0.89      0.89       624
    macro avg       0.90      0.86      0.87       624
 weighted avg       0.89      0.88      0.88       624
 ```
+![Evaluation-Report](documentation_images/evaluation_densenet_run5.png)
 
 
 ---
@@ -262,6 +278,7 @@ weighted avg       0.89      0.88      0.88       624
    macro avg       0.86      0.78      0.80       624
 weighted avg       0.84      0.83      0.82       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_run_1.png)
 
 
 <summary>Run 2</summary>
@@ -276,6 +293,7 @@ weighted avg       0.84      0.83      0.82       624
    macro avg       0.87      0.87      0.87       624
 weighted avg       0.88      0.88      0.88       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_run_2.png)
 
 
 <summary>Run 3</summary>
@@ -290,6 +308,7 @@ weighted avg       0.88      0.88      0.88       624
    macro avg       0.88      0.83      0.84       624
 weighted avg       0.87      0.86      0.86       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_run_3.png)
 
 
 <summary>Run 4</summary>
@@ -304,6 +323,7 @@ weighted avg       0.87      0.86      0.86       624
    macro avg       0.89      0.84      0.86       624
 weighted avg       0.88      0.87      0.87       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_run_4.png)
 
 
 <summary>Run 5</summary>
@@ -318,6 +338,7 @@ weighted avg       0.88      0.87      0.87       624
    macro avg       0.90      0.87      0.88       624
 weighted avg       0.89      0.89      0.89       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_run_5.png)
 
 
 ---
@@ -336,6 +357,7 @@ weighted avg       0.89      0.89      0.89       624
    macro avg       0.84      0.60      0.57       624
 weighted avg       0.80      0.70      0.63       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_efficientnet_run1.png)
 
 
 <summary>Run 2</summary>
@@ -350,6 +372,7 @@ weighted avg       0.80      0.70      0.63       624
    macro avg       0.89      0.82      0.84       624
 weighted avg       0.87      0.86      0.85       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_efficientnet_run2.png)
 
 
 <summary>Run 3</summary>
@@ -364,6 +387,7 @@ weighted avg       0.87      0.86      0.85       624
    macro avg       0.88      0.80      0.82       624
 weighted avg       0.86      0.84      0.84       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_efficientnet_run3.png)
 
 
 <summary>Run 4</summary>
@@ -378,6 +402,7 @@ weighted avg       0.86      0.84      0.84       624
    macro avg       0.85      0.72      0.73       624
 weighted avg       0.83      0.79      0.76       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_efficientnet_run4.png)
 
 
 <summary>Run 5</summary>
@@ -392,6 +417,7 @@ weighted avg       0.83      0.79      0.76       624
    macro avg       0.85      0.65      0.64       624
 weighted avg       0.81      0.74      0.69       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_efficientnet_run5.png)
 
 
 ---
@@ -410,6 +436,7 @@ weighted avg       0.81      0.74      0.69       624
    macro avg       0.90      0.88      0.89       624
 weighted avg       0.90      0.90      0.90       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_densenet_run1.png)
 
 
 <summary>Run 2</summary>
@@ -424,6 +451,7 @@ weighted avg       0.90      0.90      0.90       624
    macro avg       0.90      0.87      0.88       624
 weighted avg       0.90      0.89      0.89       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_densenet_run2.png)
 
 
 <summary>Run 3</summary>
@@ -438,6 +466,7 @@ weighted avg       0.90      0.89      0.89       624
    macro avg       0.91      0.90      0.91       624
 weighted avg       0.91      0.91      0.91       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_densenet_run3.png)
 
 
 <summary>Run 4</summary>
@@ -452,6 +481,7 @@ weighted avg       0.91      0.91      0.91       624
    macro avg       0.91      0.88      0.89       624
 weighted avg       0.91      0.90      0.90       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_densenet_run4.png)
 
 
 <summary>Run 5</summary>
@@ -466,6 +496,7 @@ weighted avg       0.91      0.90      0.90       624
    macro avg       0.88      0.85      0.86       624
 weighted avg       0.88      0.88      0.87       624
 ```
+![Evaluation-Report](documentation_images2/evaluation_densenet_run5.png)
 
 
 ---
