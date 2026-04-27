@@ -5,7 +5,6 @@ Results of three models across **5 independent runs** under two training configu
 - No class weighting, default 0.5 threshold
 - Class weighting enabled + 0.7 decision threshold
 
-Test set: 624 samples (234 Normal / 390 Pneumonia)
 
 ---
 
@@ -470,19 +469,3 @@ weighted avg       0.88      0.88      0.87       624
 
 
 ---
-
-## Summary
-
-Average weighted F1-score across 5 runs per configuration:
-
-| Model | Baseline (no weighting) | Tuned (weighted + 0.7 threshold) |
-|---|---|---|
-| Baseline CNN | ~0.80 | ~0.86 |
-| EfficientNet-B0 | ~0.77 | ~0.75 |
-| DenseNet-121 | **~0.88** | **~0.89** |
-
-> **Key observations:**
-> - DenseNet-121 consistently outperforms the other models in both configurations, showing greater stability across runs.
-> - The Baseline CNN benefits significantly from class weighting + threshold tuning, with more consistent Normal recall.
-> - EfficientNet-B0 shows high variance across runs in the tuned setting (Run 1 accuracy drops to 0.70), suggesting sensitivity to initialization.
-> - Without tuning, all models tend to over-predict Pneumonia due to class imbalance (390 vs 234 samples).
