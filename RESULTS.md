@@ -41,7 +41,6 @@ weighted avg       0.81      0.76      0.73       624
 ```
 
 
-<details>
 <summary>Run 2</summary>
 
 ```
@@ -55,9 +54,7 @@ weighted avg       0.81      0.76      0.73       624
 weighted avg       0.88      0.87      0.86       624
 ```
 
-</details>
 
-<details>
 <summary>Run 3</summary>
 
 ```
@@ -71,9 +68,7 @@ weighted avg       0.88      0.87      0.86       624
 weighted avg       0.86      0.83      0.81       624
 ```
 
-</details>
 
-<details>
 <summary>Run 4</summary>
 
 ```
@@ -87,9 +82,7 @@ weighted avg       0.86      0.83      0.81       624
 weighted avg       0.83      0.78      0.76       624
 ```
 
-</details>
 
-<details>
 <summary>Run 5</summary>
 
 ```
@@ -103,13 +96,11 @@ weighted avg       0.83      0.78      0.76       624
 weighted avg       0.86      0.84      0.83       624
 ```
 
-</details>
 
 ---
 
 ### EfficientNet-B0
 
-<details>
 <summary>Run 1</summary>
 
 ```
@@ -123,9 +114,7 @@ weighted avg       0.86      0.84      0.83       624
 weighted avg       0.84      0.80      0.79       624
 ```
 
-</details>
 
-<details>
 <summary>Run 2</summary>
 
 ```
@@ -139,9 +128,7 @@ weighted avg       0.84      0.80      0.79       624
 weighted avg       0.82      0.76      0.73       624
 ```
 
-</details>
 
-<details>
 <summary>Run 3</summary>
 
 ```
@@ -155,9 +142,7 @@ weighted avg       0.82      0.76      0.73       624
 weighted avg       0.84      0.81      0.79       624
 ```
 
-</details>
 
-<details>
 <summary>Run 4</summary>
 
 ```
@@ -171,9 +156,7 @@ weighted avg       0.84      0.81      0.79       624
 weighted avg       0.81      0.74      0.70       624
 ```
 
-</details>
 
-<details>
 <summary>Run 5</summary>
 
 ```
@@ -187,13 +170,11 @@ weighted avg       0.81      0.74      0.70       624
 weighted avg       0.86      0.83      0.82       624
 ```
 
-</details>
 
 ---
 
 ### DenseNet-121
 
-<details>
 <summary>Run 1</summary>
 
 ```
@@ -207,9 +188,7 @@ weighted avg       0.86      0.83      0.82       624
 weighted avg       0.90      0.89      0.89       624
 ```
 
-</details>
 
-<details>
 <summary>Run 2</summary>
 
 ```
@@ -223,9 +202,7 @@ weighted avg       0.90      0.89      0.89       624
 weighted avg       0.88      0.87      0.86       624
 ```
 
-</details>
 
-<details>
 <summary>Run 3</summary>
 
 ```
@@ -239,9 +216,7 @@ weighted avg       0.88      0.87      0.86       624
 weighted avg       0.90      0.89      0.89       624
 ```
 
-</details>
 
-<details>
 <summary>Run 4</summary>
 
 ```
@@ -255,9 +230,7 @@ weighted avg       0.90      0.89      0.89       624
 weighted avg       0.90      0.89      0.89       624
 ```
 
-</details>
 
-<details>
 <summary>Run 5</summary>
 
 ```
@@ -271,7 +244,6 @@ weighted avg       0.90      0.89      0.89       624
 weighted avg       0.89      0.88      0.88       624
 ```
 
-</details>
 
 ---
 
@@ -279,7 +251,6 @@ weighted avg       0.89      0.88      0.88       624
 
 ### Baseline CNN
 
-<details>
 <summary>Run 1</summary>
 
 ```
@@ -293,9 +264,7 @@ weighted avg       0.89      0.88      0.88       624
 weighted avg       0.84      0.83      0.82       624
 ```
 
-</details>
 
-<details>
 <summary>Run 2</summary>
 
 ```
@@ -309,9 +278,7 @@ weighted avg       0.84      0.83      0.82       624
 weighted avg       0.88      0.88      0.88       624
 ```
 
-</details>
 
-<details>
 <summary>Run 3</summary>
 
 ```
@@ -325,9 +292,7 @@ weighted avg       0.88      0.88      0.88       624
 weighted avg       0.87      0.86      0.86       624
 ```
 
-</details>
 
-<details>
 <summary>Run 4</summary>
 
 ```
@@ -341,9 +306,7 @@ weighted avg       0.87      0.86      0.86       624
 weighted avg       0.88      0.87      0.87       624
 ```
 
-</details>
 
-<details>
 <summary>Run 5</summary>
 
 ```
@@ -357,13 +320,11 @@ weighted avg       0.88      0.87      0.87       624
 weighted avg       0.89      0.89      0.89       624
 ```
 
-</details>
 
 ---
 
 ### EfficientNet-B0
 
-<details>
 <summary>Run 1</summary>
 
 ```
@@ -377,9 +338,7 @@ weighted avg       0.89      0.89      0.89       624
 weighted avg       0.80      0.70      0.63       624
 ```
 
-</details>
 
-<details>
 <summary>Run 2</summary>
 
 ```
@@ -393,9 +352,7 @@ weighted avg       0.80      0.70      0.63       624
 weighted avg       0.87      0.86      0.85       624
 ```
 
-</details>
 
-<details>
 <summary>Run 3</summary>
 
 ```
@@ -409,9 +366,7 @@ weighted avg       0.87      0.86      0.85       624
 weighted avg       0.86      0.84      0.84       624
 ```
 
-</details>
 
-<details>
 <summary>Run 4</summary>
 
 ```
@@ -425,9 +380,7 @@ weighted avg       0.86      0.84      0.84       624
 weighted avg       0.83      0.79      0.76       624
 ```
 
-</details>
 
-<details>
 <summary>Run 5</summary>
 
 ```
@@ -441,13 +394,11 @@ weighted avg       0.83      0.79      0.76       624
 weighted avg       0.81      0.74      0.69       624
 ```
 
-</details>
 
 ---
 
 ### DenseNet-121
 
-<details>
 <summary>Run 1</summary>
 
 ```
@@ -461,9 +412,7 @@ weighted avg       0.81      0.74      0.69       624
 weighted avg       0.90      0.90      0.90       624
 ```
 
-</details>
 
-<details>
 <summary>Run 2</summary>
 
 ```
@@ -477,9 +426,7 @@ weighted avg       0.90      0.90      0.90       624
 weighted avg       0.90      0.89      0.89       624
 ```
 
-</details>
 
-<details>
 <summary>Run 3</summary>
 
 ```
@@ -493,9 +440,7 @@ weighted avg       0.90      0.89      0.89       624
 weighted avg       0.91      0.91      0.91       624
 ```
 
-</details>
 
-<details>
 <summary>Run 4</summary>
 
 ```
@@ -509,9 +454,7 @@ weighted avg       0.91      0.91      0.91       624
 weighted avg       0.91      0.90      0.90       624
 ```
 
-</details>
 
-<details>
 <summary>Run 5</summary>
 
 ```
@@ -525,7 +468,6 @@ weighted avg       0.91      0.90      0.90       624
 weighted avg       0.88      0.88      0.87       624
 ```
 
-</details>
 
 ---
 
