@@ -13,7 +13,7 @@ Inside the Notebooks there is the documentation of the whole study explaining ev
 - `eda_images/` — Exploratory Data Analysis Graphs
 - `logs/`
 - `notebooks/` — Jupyter notebooks for each stage of the study:
-    - `documentation/` — All evaluation plots referenced in the documentation
+    - `documentation/` — All evaluation plots referenced in the notebooks
     - `Data_Loading.ipynb` — Loading of the Dataset
     - `Exploratory_Data_Analysis.ipynb` — Exploratory Data Analysis
     - `Modeling.ipynb` — Training,Evaluation and Test of the 3 models (Baseline, EfficientNet-B0 and DenseNet-121)
