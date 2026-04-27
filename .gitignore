@@ -20,9 +20,3 @@ models/
 models2/
 *.h5
 *.keras
-
-
-documentation_images2/
-
-
-documentation_images/
