@@ -9,11 +9,7 @@ Inside the Notebooks there is the documentation of the whole study explaining ev
 
 ## Repository Structure
 
-- `data/` — Dataset directory (see Dataset section below)
-- `documentation_images/` — All evaluation plots referenced in the documentation
-- `documentation_images2/` — All evaluation plots referenced in the documentation with class weighting and threshold optimization
-- `models/` — Saved model checkpoints for each run of each architecture
-- `models2/` — Saved model checkpoints for each run of each architecture with class weighting and threshold optimization
+- `documentation/` — All evaluation plots referenced in the documentation
 - `grad_cam_images/` — Grad-Cam comparison and Failure Analysis images of the models
 - `eda_images/` — Exploratory Data Analysis Graphs
 - `logs/`
